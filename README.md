@@ -3,6 +3,10 @@
 Bfresh is an e-commerce web platform developed using PHP and MySQL for a fresh fruit juice business. It allows customers to browse juice catalogs, place orders, make online payments, and track order statuses, while providing an administrative dashboard to manage inventory, products, orders, and sales promotions.
 
 ---
+**Collaborators**
+Tara Samarasekara (Project Owner)
+
+Mohamed Abdullah Rizvi
 
 ## Key Features
 
